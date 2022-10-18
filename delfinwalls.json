@@ -1,8 +1,8 @@
 [{
 		"name": "Praline",
 		"author": "Key Lime Pie",
-		"url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_keylimepie_2_o.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_keylimepie_2_o.jpg",
+		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_keylimepie_2_p.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_keylimepie_2_p.png?raw=true",
 		"dimensions": "2268x4032",
 		"collections": "Citas"
 	},
@@ -10,11 +10,11 @@
 		"name": "Praline 2",
 		"author": "Nosotros",
 		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_keylimepie.png?raw=true",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_keylimepie.jpg",
+		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_keylimepie.png?raw=true",
 		"collections": "Citas"
 	},
 	{
-		"name": "Shotb",
+		"name": "Shoe",
 		"author": "Someone",
 		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
 		"collections": "featured,landscapes,people"
