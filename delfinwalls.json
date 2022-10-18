@@ -35,18 +35,74 @@
 		"collections": "Citas"
 	},
  	{
+		"name": "Cruel Summer",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Cruel-Summer-what-doesnt-kill-me-Taylor-Swift-quote.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Cruel-Summer-what-doesnt-kill-me-Taylor-Swift-quote.jpg",
+		"collections": "Quotes,Fondos"
+	},
+ 	{
 		"name": "Ascensor",
 		"author": "Tu casa!",
 		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_t_ascensor.png?raw=true",
 		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_t_ascensor.png?raw=true",
 		"collections": "Nosotros"
 	},
- {
+ 	{
 		"name": "En el Planetario",
 		"author": "Palermo",
 		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_t_planetario.png?raw=true",
 		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_t_planetario.png?raw=true",
 		"collections": "Citas,Nosotros"
+	},
+ 	{
+		"name": "Ivy",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Ivy-Lyrics-roots-dreamland-Taylor-Swift-quote.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Ivy-Lyrics-roots-dreamland-Taylor-Swift-quote.jpg",
+		"collections": "Quotes,Fondos"
+	},
+ 	{
+		"name": "Mirrorball",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Mirrorball-Lyrics-try-try-try-Taylor-Swift-quote.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Mirrorball-Lyrics-try-try-try-Taylor-Swift-quote.jpg",
+		"collections": "Quotes,Fondos"
+	},
+ 	{
+		"name": "Pain Not Evermore",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Pain-Not-Evermore-Taylor-Swift-quote.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Pain-Not-Evermore-Taylor-Swift-quote.jpg",
+		"collections": "Quotes,Fondos"
+	},
+ 	{
+		"name": "You Are What You Love",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/You-Are-What-You-Love-Taylor-Swift-quote.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/You-Are-What-You-Love-Taylor-Swift-quote.jpg",
+		"collections": "Quotes,Fondos"
+	},
+ 	{
+		"name": "If You Never Bleed",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/if-you-never-bleed-Taylor-Swift-quote.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/if-you-never-bleed-Taylor-Swift-quote.jpg",
+		"collections": "Quotes,Fondos"
+	},
+ 	{
+		"name": "August",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Picsart_22-10-18_18-16-17-620.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Picsart_22-10-18_18-16-17-620.jpg",
+		"collections": "Quotes,Fondos"
+	},
+ 	{
+		"name": "Gateaway Car",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Picsart_22-10-18_18-33-45-523.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Picsart_22-10-18_18-33-45-523.jpg",
+		"collections": "Quotes,Fondos"
 	},
 	{
 		"name": "Plaza",
