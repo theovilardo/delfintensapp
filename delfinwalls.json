@@ -34,6 +34,20 @@
 		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_plazam_2.png?raw=true",
 		"collections": "Citas"
 	},
+ 	{
+		"name": "Ascensor",
+		"author": "Tu casa!",
+		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_t_ascensor.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_t_ascensor.png?raw=true",
+		"collections": "Nosotros"
+	},
+ {
+		"name": "En el Planetario",
+		"author": "Palermo",
+		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_t_planetario.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_t_planetario.png?raw=true",
+		"collections": "Citas"
+	},
 	{
 		"name": "Plaza",
 		"author": "Recoleta",
