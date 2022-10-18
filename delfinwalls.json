@@ -1,10 +1,16 @@
 [{
 		"name": "Praline",
-		"author": "Nosotros",
+		"author": "Key Lime Pie",
 		"url": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_keylimepie_2_o.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_keylimepie_2_o.jpg",
 		"dimensions": "2268x4032",
-		"copyright": "Free",
+		"collections": "Citas"
+	},
+ 	{
+		"name": "Shotb",
+		"author": "Someone",
+		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_keylimepie.png?raw=true",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/3dwlls/main/d_keylimepie.jpg",
 		"collections": "Citas"
 	},
 	{
