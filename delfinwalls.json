@@ -13,9 +13,31 @@
 		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_keylimepie.png?raw=true",
 		"collections": "Citas"
 	},
+ 	{
+		"name": "Planetario",
+		"author": "Recoleta",
+		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_planetario.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_planetario.png?raw=true",
+		"collections": "Citas"
+	},
+ 	{
+		"name": "Planetario 2",
+		"author": "Recoleta",
+		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_planetario_2.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_planetario_2.png?raw=true",
+		"collections": "Citas"
+	},
+ 	{
+		"name": "Plaza 2",
+		"author": "Recoleta",
+		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_plazam_2.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_plazam_2.png?raw=true",
+		"collections": "Citas"
+	},
 	{
-		"name": "Shoe",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
+		"name": "Plaza",
+		"author": "Recoleta",
+		"url": "https://github.com/theovilardo/delfintensapp/blob/main/d_plazam.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/delfintensapp/blob/main/d_plazam.png?raw=true",
+		"collections": "Citas"
 }]
