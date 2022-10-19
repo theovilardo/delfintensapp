@@ -201,5 +201,33 @@
 		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Picsart_22-10-18_18-33-45-523.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/Picsart_22-10-18_18-33-45-523.jpg",
 		"collections": "Quotes,Fondos"
+	},
+ 	{
+		"name": "Dear John",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/dear%20john.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/dear%20john.png",
+		"collections": "Spotify,Fondos"
+	},
+ 	{
+		"name": "Love Story",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/love%20story.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/love%20story.png",
+		"collections": "Spotify,Fondos"
+	},
+ 	{
+		"name": "Should've Said No",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/shoul've%20said%20no.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/shoul've%20said%20no.png",
+		"collections": "Spotify,Fondos"
+	},
+ 	{
+		"name": "Wildest Dreams",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/wildest%20dreams.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/wildest%20dreams.png",
+		"collections": "Spotify,Fondos"
 	
 }]
