@@ -238,6 +238,27 @@
 		"collections": "Spotify,Fondos"
 	},
  	{
+		"name": "Gateaway Car Spot",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/getaway%20car.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/getaway%20car.png",
+		"collections": "Spotify,Fondos"
+	},
+ 	{
+		"name": "Playlist",
+		"author": "Taylor",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/playlist.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/getaway%20car.png",
+		"collections": "Spotify,Fondos"
+	},
+ 	{
+		"name": "Radar",
+		"author": "Paz Carrara",
+		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/radar.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/radar.png",
+		"collections": "Spotify,Fondos"
+	},
+ 	{
 		"name": "Wildest Dreams",
 		"author": "Taylor",
 		"url": "https://raw.githubusercontent.com/theovilardo/delfintensapp/main/wildest%20dreams.png",
